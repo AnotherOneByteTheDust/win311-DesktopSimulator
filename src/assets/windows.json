@@ -1,0 +1,21 @@
+{
+  "apps": {
+    "title": "Application",
+    "icons": ["paintbrush", "calc", "write", "notepad", "clock"]
+  },
+  "cpanel": {
+    "title": "Control Panel",
+    "icons": [
+      "calendar",
+      "charmap",
+      "clipboard",
+      "colors",
+      "desktop",
+      "keyboard",
+      "cd",
+      "fonts",
+      "international",
+      "programs"
+    ]
+  }
+}
